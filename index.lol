@@ -1,9 +1,10 @@
 HAI 1.2
 I HAS A firstName
-VISIBLE "Whats your name?"
+VISIBLE "Whats ur first name?"
 GIMMEH firstName
 I HAS A lastName
-VISIBLE "...and your last name?"
+VISIBLE "...and ur last name??"
 GIMMEH lastName
-VISIBLE SMOOSH "Hello, " firstName " " lastName "." MKAY BTW Results in "Hello firstName lastName."
+VISIBLE "Hello, :{firstName} :{lastName}"
+BTW results in "Hello firstName lastName"
 KTHXBYE
