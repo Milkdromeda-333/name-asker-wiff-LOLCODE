@@ -5,5 +5,5 @@ GIMMEH firstName
 I HAS A lastName
 VISIBLE "...and your last name?"
 GIMMEH lastName
-VISIBLE SMOOSH "Hello, " firstName " " lastName MKAY
+VISIBLE SMOOSH "Hello, " firstName " " lastName "." MKAY BTW Results in "Hello firstName lastName."
 KTHXBYE
